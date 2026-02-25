@@ -4,7 +4,7 @@
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
 <!-- ▓▓▓  HERO HEADER  ▓▓▓ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,30:0A2463,60:0078D4,100:00B4D8&height=260&section=header&text=Jalal%20Ahmed%20Khan&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=30&desc=AI%20Enabler%20%20%E2%80%A2%20%20Enterprise%20Integrator%20%20%E2%80%A2%20%20Microsoft%20Certified%20Trainer&descSize=18&descAlignY=54&descColor=E0E0E0&fontAlign=50&descAlign=50" width="100%" alt="Header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,30:0A2463,60:0078D4,100:00B4D8&height=260&section=header&text=Jalal%20Khan&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=30&desc=AI%20Enabler%20%20%E2%80%A2%20%20Enterprise%20Integrator%20%20%E2%80%A2%20%20Microsoft%20Certified%20Trainer&descSize=18&descAlignY=54&descColor=E0E0E0&fontAlign=50&descAlign=50" width="100%" alt="Header"/>
 
 <div align="center">
 
