@@ -4,7 +4,7 @@
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
 <!-- ▓▓▓  HERO HEADER  ▓▓▓ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,30:0A2463,60:0078D4,100:00B4D8&height=260&section=header&text=Jalal%20Ahmed%20Khan&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=30&desc=AI%20Enabler%20%20%E2%80%A2%20%20Enterprise%20Integrator%20%20%E2%80%A2%20%20Microsoft%20Certified%20Trainer&descSize=18&descAlignY=54&descColor=E0E0E0&fontAlign=50&descAlign=50" width="100%" alt="Header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFFCF5,30:FFECD2,60:FFD8A8,100:F5C77E&height=260&section=header&text=Jalal%20Ahmed%20Khan&fontSize=52&fontColor=2D3436&animation=fadeIn&fontAlignY=30&desc=AI%20Enabler%20%20%E2%80%A2%20%20Enterprise%20Integrator%20%20%E2%80%A2%20%20Microsoft%20Certified%20Trainer&descSize=18&descAlignY=54&descColor=555555&fontAlign=50&descAlign=50" width="100%" alt="Header"/>
 
 <div align="center">
 
@@ -14,7 +14,7 @@
 <br/><br/>
 
 <!-- ANIMATED TYPING -->
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3000&pause=1500&color=58A6FF&center=true&vCenter=true&repeat=true&width=750&height=45&lines=%E2%9A%A1+Building+Production-Ready+AI+for+Enterprise;%F0%9F%8E%AF+Bridging+C-Suite+Vision+%26+Technical+Execution;%F0%9F%8C%8D+14%2B+Years+Driving+AI+Adoption+Worldwide" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3000&pause=1500&color=C8894F&center=true&vCenter=true&repeat=true&width=750&height=45&lines=%E2%9A%A1+Building+Production-Ready+AI+for+Enterprise;%F0%9F%8E%AF+Bridging+C-Suite+Vision+%26+Technical+Execution;%F0%9F%8C%8D+14%2B+Years+Driving+AI+Adoption+Worldwide" alt="Typing SVG" />
 
 <br/>
 
@@ -45,12 +45,12 @@ An **AI Enabler and Integrator** — leveraging AI to **build and deliver produc
 </div>
 
 <p align="center">
-<img src="https://img.shields.io/badge/🇸🇦_Saudi_Arabia-0D1117?style=flat-square" alt="SA"/>
-<img src="https://img.shields.io/badge/🇦🇪_UAE-0D1117?style=flat-square" alt="UAE"/>
-<img src="https://img.shields.io/badge/🇧🇭_Bahrain-0D1117?style=flat-square" alt="BH"/>
-<img src="https://img.shields.io/badge/🇦🇺_Australia-0D1117?style=flat-square" alt="AU"/>
-<img src="https://img.shields.io/badge/🇳🇿_New_Zealand-0D1117?style=flat-square" alt="NZ"/>
-<img src="https://img.shields.io/badge/🇬🇧_United_Kingdom-0D1117?style=flat-square" alt="UK"/>
+<img src="https://img.shields.io/badge/📍_Saudi_Arabia-FFFCF5?style=flat-square&labelColor=FFFCF5" alt="SA"/>
+<img src="https://img.shields.io/badge/📍_UAE-FFFCF5?style=flat-square&labelColor=FFFCF5" alt="UAE"/>
+<img src="https://img.shields.io/badge/📍_Bahrain-FFFCF5?style=flat-square&labelColor=FFFCF5" alt="BH"/>
+<img src="https://img.shields.io/badge/📍_Australia-FFFCF5?style=flat-square&labelColor=FFFCF5" alt="AU"/>
+<img src="https://img.shields.io/badge/📍_New_Zealand-FFFCF5?style=flat-square&labelColor=FFFCF5" alt="NZ"/>
+<img src="https://img.shields.io/badge/📍_United_Kingdom-FFFCF5?style=flat-square&labelColor=FFFCF5" alt="UK"/>
 </p>
 
 <!-- ─── SECTION DIVIDER ─── -->
@@ -563,7 +563,7 @@ Six Jupyter Notebooks teaching essential Python for AI-102 certification labs �
 
 <td align="center" width="25%" valign="top">
 <br/>
-<img src="https://img.shields.io/badge/🇸🇦_MCIT_Saudi_Arabia-0078D4?style=for-the-badge" alt=""/><br/><br/>
+<img src="https://img.shields.io/badge/📍_MCIT_Saudi_Arabia-0078D4?style=for-the-badge" alt=""/><br/><br/>
 <b>AI Leadership Mastery</b><br/>
 10-day bootcamp<br/><br/>
 <code>50+ C-suite executives</code><br/>
@@ -573,7 +573,7 @@ Six Jupyter Notebooks teaching essential Python for AI-102 certification labs �
 
 <td align="center" width="25%" valign="top">
 <br/>
-<img src="https://img.shields.io/badge/🇹🇿_Bank_of_Tanzania-00B4D8?style=for-the-badge" alt=""/><br/><br/>
+<img src="https://img.shields.io/badge/📍_Bank_of_Tanzania-00B4D8?style=for-the-badge" alt=""/><br/><br/>
 <b>AI Agents Program</b><br/>
 10-day program<br/><br/>
 <code>Multi-agent orchestration</code><br/>
@@ -583,7 +583,7 @@ Six Jupyter Notebooks teaching essential Python for AI-102 certification labs �
 
 <td align="center" width="25%" valign="top">
 <br/>
-<img src="https://img.shields.io/badge/🇧🇭_Govt._of_Bahrain-5C2D91?style=for-the-badge" alt=""/><br/><br/>
+<img src="https://img.shields.io/badge/📍_Govt._of_Bahrain-5C2D91?style=for-the-badge" alt=""/><br/><br/>
 <b>GenAI Enablement</b><br/>
 Workshops<br/><br/>
 <code>Rapid PoCs</code><br/>
@@ -718,11 +718,11 @@ King Saud University · Taibah University
 <div align="center">
 
 <a href="https://github.com/lostspace003">
-<img src="https://github-readme-stats.vercel.app/api?username=lostspace003&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&rank_icon=github&card_width=450" height="180" alt="Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=lostspace003&show_icons=true&hide_border=true&bg_color=FFFCF5&title_color=C8894F&icon_color=C8894F&text_color=333333&rank_icon=github&card_width=450&border_radius=12" height="180" alt="Stats"/>
 </a>
 &nbsp;&nbsp;
 <a href="https://github.com/lostspace003">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lostspace003&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8&card_width=350" height="180" alt="Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lostspace003&layout=compact&hide_border=true&bg_color=FFFCF5&title_color=C8894F&text_color=333333&langs_count=8&card_width=350&border_radius=12" height="180" alt="Languages"/>
 </a>
 
 </div>
@@ -732,7 +732,7 @@ King Saud University · Taibah University
 <div align="center">
 
 <a href="https://github.com/lostspace003">
-<img src="https://streak-stats.demolab.com?user=lostspace003&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" width="600" alt="Streak"/>
+<img src="https://streak-stats.demolab.com?user=lostspace003&hide_border=true&background=FFFCF5&ring=C8894F&fire=E97627&currStreakLabel=C8894F&currStreakNum=333333&sideLabels=555555&sideNums=333333&dates=777777&border_radius=12" width="600" alt="Streak"/>
 </a>
 
 </div>
@@ -742,7 +742,7 @@ King Saud University · Taibah University
 <div align="center">
 
 <a href="https://github.com/lostspace003">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=lostspace003&theme=github-dark&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=58a6ff" width="95%" alt="Activity Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=lostspace003&hide_border=true&bg_color=FFFCF5&color=555555&line=C8894F&point=E97627&area=true&area_color=FFECD2&radius=12" width="95%" alt="Activity Graph"/>
 </a>
 
 </div>
@@ -783,4 +783,4 @@ Open to **AI project collaborations, speaking at events, or designing enterprise
 <br/>
 
 <!-- ▓▓▓  WAVING FOOTER  ▓▓▓ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00B4D8,30:0078D4,60:0A2463,100:0D1117&height=150&section=footer" width="100%" alt="Footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F5C77E,30:FFD8A8,60:FFECD2,100:FFFCF5&height=150&section=footer" width="100%" alt="Footer"/>
