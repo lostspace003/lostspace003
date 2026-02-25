@@ -45,12 +45,12 @@ An **AI Enabler and Integrator** — leveraging AI to **build and deliver produc
 </div>
 
 <p align="center">
-<img src="https://img.shields.io/badge/SA-Saudi_Arabia-0D1117?style=flat-square" alt="SA"/>
-<img src="https://img.shields.io/badge/AE-UAE-0D1117?style=flat-square" alt="UAE"/>
-<img src="https://img.shields.io/badge/BH-Bahrain-0D1117?style=flat-square" alt="BH"/>
-<img src="https://img.shields.io/badge/AU-Australia-0D1117?style=flat-square" alt="AU"/>
-<img src="https://img.shields.io/badge/NZ-New_Zealand-0D1117?style=flat-square" alt="NZ"/>
-<img src="https://img.shields.io/badge/UK-United_Kingdom-0D1117?style=flat-square" alt="UK"/>
+<img src="https://img.shields.io/badge/🇸🇦_Saudi_Arabia-0D1117?style=flat-square" alt="SA"/>
+<img src="https://img.shields.io/badge/🇦🇪_UAE-0D1117?style=flat-square" alt="UAE"/>
+<img src="https://img.shields.io/badge/🇧🇭_Bahrain-0D1117?style=flat-square" alt="BH"/>
+<img src="https://img.shields.io/badge/🇦🇺_Australia-0D1117?style=flat-square" alt="AU"/>
+<img src="https://img.shields.io/badge/🇳🇿_New_Zealand-0D1117?style=flat-square" alt="NZ"/>
+<img src="https://img.shields.io/badge/🇬🇧_United_Kingdom-0D1117?style=flat-square" alt="UK"/>
 </p>
 
 <!-- ─── SECTION DIVIDER ─── -->
@@ -563,7 +563,7 @@ Six Jupyter Notebooks teaching essential Python for AI-102 certification labs �
 
 <td align="center" width="25%" valign="top">
 <br/>
-<img src="https://img.shields.io/badge/SA_·_MCIT_Saudi_Arabia-0078D4?style=for-the-badge" alt=""/><br/><br/>
+<img src="https://img.shields.io/badge/🇸🇦_MCIT_Saudi_Arabia-0078D4?style=for-the-badge" alt=""/><br/><br/>
 <b>AI Leadership Mastery</b><br/>
 10-day bootcamp<br/><br/>
 <code>50+ C-suite executives</code><br/>
@@ -573,7 +573,7 @@ Six Jupyter Notebooks teaching essential Python for AI-102 certification labs �
 
 <td align="center" width="25%" valign="top">
 <br/>
-<img src="https://img.shields.io/badge/TZ_·_Bank_of_Tanzania-00B4D8?style=for-the-badge" alt=""/><br/><br/>
+<img src="https://img.shields.io/badge/🇹🇿_Bank_of_Tanzania-00B4D8?style=for-the-badge" alt=""/><br/><br/>
 <b>AI Agents Program</b><br/>
 10-day program<br/><br/>
 <code>Multi-agent orchestration</code><br/>
@@ -583,7 +583,7 @@ Six Jupyter Notebooks teaching essential Python for AI-102 certification labs �
 
 <td align="center" width="25%" valign="top">
 <br/>
-<img src="https://img.shields.io/badge/BH_·_Govt._of_Bahrain-5C2D91?style=for-the-badge" alt=""/><br/><br/>
+<img src="https://img.shields.io/badge/🇧🇭_Govt._of_Bahrain-5C2D91?style=for-the-badge" alt=""/><br/><br/>
 <b>GenAI Enablement</b><br/>
 Workshops<br/><br/>
 <code>Rapid PoCs</code><br/>
