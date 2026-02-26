@@ -34,7 +34,7 @@
 <br/>
 
 <!-- ABOUT ME — PARAGRAPH -->
-<div align="center">
+<div align="left">
 <table><tr><td>
 <div align="justify">
 
@@ -44,7 +44,7 @@ An **AI Enabler and Integrator** — leveraging AI to **build and deliver produc
 </td></tr></table>
 </div>
 
-<p align="center">
+<p align="left">
 <img src="https://img.shields.io/badge/🇸🇦_Saudi_Arabia-0D1117?style=flat-square" alt="SA"/>
 <img src="https://img.shields.io/badge/🇦🇪_UAE-0D1117?style=flat-square" alt="UAE"/>
 <img src="https://img.shields.io/badge/🇧🇭_Bahrain-0D1117?style=flat-square" alt="BH"/>
@@ -61,15 +61,15 @@ An **AI Enabler and Integrator** — leveraging AI to **build and deliver produc
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 <!-- UPDATE THESE REGULARLY to reflect your current focus areas -->
 
-<h2 align="center">🔭 Currently Working On</h2>
+<h2 align="left">🔭 Currently Working On</h2>
 
 <br/>
 
-<div align="center">
+<div align="left">
 <table>
 <tr>
 
-<td align="center" width="25%" valign="top">
+<td align="left" width="25%" valign="top">
 <br/>
 <img width="48" src="https://img.icons8.com/fluency/96/server.png" alt="MCP"/>
 <br/><br/>
@@ -81,7 +81,7 @@ Developing production-ready MCP servers for Copilot Studio with Azure SQL, Cosmo
 <br/>
 </td>
 
-<td align="center" width="25%" valign="top">
+<td align="left" width="25%" valign="top">
 <br/>
 <img width="48" src="https://img.icons8.com/fluency/96/robot-2.png" alt="Agentic"/>
 <br/><br/>
@@ -93,7 +93,7 @@ Multi-agent workflows with CrewAI, AutoGen, and Semantic Kernel for enterprise a
 <br/>
 </td>
 
-<td align="center" width="25%" valign="top">
+<td align="left" width="25%" valign="top">
 <br/>
 <img width="48" src="https://img.icons8.com/fluency/96/documents.png" alt="RAG"/>
 <br/><br/>
@@ -105,7 +105,7 @@ Multimodal RAG architectures with Azure AI Search, Document Intelligence, and GP
 <br/>
 </td>
 
-<td align="center" width="25%" valign="top">
+<td align="left" width="25%" valign="top">
 <br/>
 <img width="48" src="https://img.icons8.com/fluency/96/artificial-intelligence.png" alt="Copilot"/>
 <br/><br/>
@@ -128,34 +128,34 @@ Custom Copilot Studio agents with Human-in-the-Loop flows, Adaptive Cards, and e
 <!--                              IMPACT AT A GLANCE                               -->
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
-<h2 align="center">📊 Impact at a Glance</h2>
+<h2 align="left">📊 Impact at a Glance</h2>
 
 <br/>
 
-<div align="center">
+<div align="left">
 <table>
 <tr>
-<td align="center" width="19%">
+<td align="left" width="19%">
 <img width="60" src="https://img.icons8.com/fluency/96/microsoft.png" alt="MCT"/><br/>
 <img src="https://img.shields.io/badge/MCT-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="MCT"/><br/><br/>
 <b>Microsoft Certified<br/>Trainer · 2022+</b>
 </td>
-<td align="center" width="19%">
+<td align="left" width="19%">
 <img width="60" src="https://img.icons8.com/fluency/96/time-span.png" alt="14+"/><br/>
 <img src="https://img.shields.io/badge/14+-00B4D8?style=for-the-badge" alt="14+"/><br/><br/>
 <b>Years Driving<br/>Enterprise AI</b>
 </td>
-<td align="center" width="19%">
+<td align="left" width="19%">
 <img width="60" src="https://img.icons8.com/fluency/96/classroom.png" alt="80+"/><br/>
 <img src="https://img.shields.io/badge/80+-5C2D91?style=for-the-badge" alt="80+"/><br/><br/>
 <b>Training Programs<br/>Delivered Globally</b>
 </td>
-<td align="center" width="19%">
+<td align="left" width="19%">
 <img width="60" src="https://img.icons8.com/fluency/96/certificate.png" alt="15+"/><br/>
 <img src="https://img.shields.io/badge/15+-107C10?style=for-the-badge" alt="15+"/><br/><br/>
 <b>Microsoft<br/>Certifications</b>
 </td>
-<td align="center" width="19%">
+<td align="left" width="19%">
 <img width="60" src="https://img.icons8.com/fluency/96/prize.png" alt="14+"/><br/>
 <img src="https://img.shields.io/badge/14+-E97627?style=for-the-badge" alt="14+"/><br/><br/>
 <b>Applied Skills &<br/>Specializations</b>
@@ -166,7 +166,7 @@ Custom Copilot Studio agents with Human-in-the-Loop flows, Adaptive Cards, and e
 
 <br/>
 
-<div align="center">
+<div align="left">
 <table><tr><td>
 <div align="justify">
 
@@ -183,17 +183,17 @@ Trained teams at **Microsoft, IBM, EY, Boeing, Siemens, Saudi Aramco**, and **30
 <!--                                WHAT I DO                                      -->
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
-<h2 align="center">🎯 What I Do</h2>
+<h2 align="left">🎯 What I Do</h2>
 
 <br/>
 
-<div align="center">
+<div align="left">
 <table>
 <tr>
 
-<td align="center" width="33%" valign="top">
+<td align="left" width="33%" valign="top">
 <br/>
-<img width="48" src="https://img.icons8.com/fluency/96/cloud-computing.png" alt="AI Architecture"/>
+<img width="48" src="https://img.icons8.com/fluency/96/neural-network.png" alt="AI Architecture"/>
 <br/><br/>
 <img src="https://img.shields.io/badge/AI_Solution_Architecture-0078D4?style=for-the-badge&logoColor=white" alt=""/>
 <br/><br/>
@@ -203,7 +203,7 @@ Azure OpenAI & GPT-4o integration, RAG pipelines with vector search, Document In
 <br/>
 </td>
 
-<td align="center" width="33%" valign="top">
+<td align="left" width="33%" valign="top">
 <br/>
 <img width="48" src="https://img.icons8.com/fluency/96/training.png" alt="Training"/>
 <br/><br/>
@@ -215,7 +215,7 @@ Azure OpenAI & GPT-4o integration, RAG pipelines with vector search, Document In
 <br/>
 </td>
 
-<td align="center" width="33%" valign="top">
+<td align="left" width="33%" valign="top">
 <br/>
 <img width="48" src="https://img.icons8.com/fluency/96/rocket.png" alt="Transformation"/>
 <br/><br/>
@@ -238,16 +238,16 @@ AI adoption strategy & change management, Power Platform automation, M365 Copilo
 <!--                                TECH STACK                                     -->
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
-<h2 align="center">🛠️ Tech Stack</h2>
+<h2 align="left">🛠️ Tech Stack</h2>
 
 <br/>
 
-<div align="center">
+<div align="left">
 
 <table>
 <tr>
 
-<td align="center" valign="top" width="25%">
+<td align="left" valign="top" width="25%">
 <br/>
 <img src="https://img.shields.io/badge/☁️_AI_&_Cloud-0078D4?style=for-the-badge" alt="AI & Cloud"/><br/><br/>
 <a href="#"><img src="https://img.shields.io/badge/Azure_OpenAI-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt=""/></a><br/>
@@ -259,7 +259,7 @@ AI adoption strategy & change management, Power Platform automation, M365 Copilo
 <br/><br/>
 </td>
 
-<td align="center" valign="top" width="25%">
+<td align="left" valign="top" width="25%">
 <br/>
 <img src="https://img.shields.io/badge/🤖_Agentic_&_Copilot-5C2D91?style=for-the-badge" alt="Agentic & Copilot"/><br/><br/>
 <a href="#"><img src="https://img.shields.io/badge/Copilot_Studio-6264A7?style=flat-square&logo=microsoft&logoColor=white" alt=""/></a><br/>
@@ -271,7 +271,7 @@ AI adoption strategy & change management, Power Platform automation, M365 Copilo
 <br/><br/>
 </td>
 
-<td align="center" valign="top" width="25%">
+<td align="left" valign="top" width="25%">
 <br/>
 <img src="https://img.shields.io/badge/⚙️_Development-2088FF?style=for-the-badge" alt="Development"/><br/><br/>
 <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt=""/></a><br/>
@@ -283,7 +283,7 @@ AI adoption strategy & change management, Power Platform automation, M365 Copilo
 <br/><br/>
 </td>
 
-<td align="center" valign="top" width="25%">
+<td align="left" valign="top" width="25%">
 <br/>
 <img src="https://img.shields.io/badge/📊_Power_Platform-742774?style=for-the-badge" alt="Power Platform"/><br/><br/>
 <a href="#"><img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt=""/></a><br/>
@@ -307,11 +307,11 @@ AI adoption strategy & change management, Power Platform automation, M365 Copilo
 <!--                            LANGUAGES SPOKEN                                   -->
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
-<h2 align="center">🗣️ Languages Spoken</h2>
+<h2 align="left">🗣️ Languages Spoken</h2>
 
 <br/>
 
-<p align="center">
+<p align="left">
 <img src="https://img.shields.io/badge/🇬🇧_English-Fluent-0078D4?style=for-the-badge" alt="English"/>
 &nbsp;&nbsp;
 <img src="https://img.shields.io/badge/🇮🇳_Hindi-Native-00B4D8?style=for-the-badge" alt="Hindi"/>
@@ -326,16 +326,16 @@ AI adoption strategy & change management, Power Platform automation, M365 Copilo
 <!--                             FEATURED PROJECTS                                 -->
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
-<h2 align="center">🚀 Featured Projects</h2>
+<h2 align="left">🚀 Featured Projects</h2>
 
 <br/>
 
 <!-- ─── CATEGORY: BANKING & BFSI ─── -->
-<h3 align="center">
+<h3 align="left">
 <img src="https://img.shields.io/badge/━━━━━━━━━━_Banking_&_BFSI_AI_Solutions_━━━━━━━━━━-0078D4?style=flat-square" alt="Banking & BFSI"/>
 </h3>
 
-<div align="center">
+<div align="left">
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -412,11 +412,11 @@ Multimodal RAG for financial documents — charts, tables & reports with citatio
 <br/>
 
 <!-- ─── CATEGORY: COPILOT STUDIO & MCP ─── -->
-<h3 align="center">
+<h3 align="left">
 <img src="https://img.shields.io/badge/━━━━━━━━━━_Copilot_Studio_&_MCP_━━━━━━━━━━-5C2D91?style=flat-square" alt="Copilot Studio & MCP"/>
 </h3>
 
-<div align="center">
+<div align="left">
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -490,11 +490,11 @@ Human-in-the-Loop Agent Flow orchestration with interactive visualizations & mul
 <br/>
 
 <!-- ─── CATEGORY: AI EDUCATION ─── -->
-<h3 align="center">
+<h3 align="left">
 <img src="https://img.shields.io/badge/━━━━━━━━━━_AI_Education_&_Training_━━━━━━━━━━-00B4D8?style=flat-square" alt="AI Education & Training"/>
 </h3>
 
-<div align="center">
+<div align="left">
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -548,17 +548,17 @@ Six Jupyter Notebooks teaching essential Python for AI-102 certification labs �
 <!--                          MICROSOFT CERTIFICATIONS                             -->
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
-<h2 align="center">🎓 Microsoft Certifications</h2>
+<h2 align="left">🎓 Microsoft Certifications</h2>
 
 <br/>
 
-<p align="center">
+<p align="left">
 <i>Every certification below links to its official Microsoft Learn page — click to verify.</i>
 </p>
 
 <br/>
 
-<div align="center">
+<div align="left">
 
 | &nbsp; | Level | Certification | Exam |
 |:------:|:------|:-------------|:-----|
@@ -566,12 +566,12 @@ Six Jupyter Notebooks teaching essential Python for AI-102 certification labs �
 | 🏆 | ![Expert](https://img.shields.io/badge/Expert-E97627?style=flat-square) | [**DevOps Engineer Expert**](https://learn.microsoft.com/en-us/credentials/certifications/devops-engineer/) | `AZ-400` |
 | ⭐ | ![Specialty](https://img.shields.io/badge/Specialty-5C2D91?style=flat-square) | [**AI Transformation Leader**](https://learn.microsoft.com/en-us/credentials/certifications/ai-transformation-partner-essentials/) | `AB-731` |
 | ⭐ | ![Specialty](https://img.shields.io/badge/Specialty-5C2D91?style=flat-square) | [**AI Business Professional**](https://learn.microsoft.com/en-us/credentials/certifications/ai-skills-partner-essentials/) | `AB-730` |
-| ✅ | ![Associate](https://img.shields.io/badge/Associate-107C10?style=flat-square) | [**Azure AI Engineer**](https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-engineer/) | `AI-102` |
-| ✅ | ![Associate](https://img.shields.io/badge/Associate-107C10?style=flat-square) | [**Azure Data Scientist**](https://learn.microsoft.com/en-us/credentials/certifications/azure-data-scientist/) | `DP-100` |
-| ✅ | ![Associate](https://img.shields.io/badge/Associate-107C10?style=flat-square) | [**Azure Developer**](https://learn.microsoft.com/en-us/credentials/certifications/azure-developer/) | `AZ-204` |
-| ✅ | ![Associate](https://img.shields.io/badge/Associate-107C10?style=flat-square) | [**Power BI Data Analyst**](https://learn.microsoft.com/en-us/credentials/certifications/data-analyst-associate/) | `PL-300` |
-| ✅ | ![Associate](https://img.shields.io/badge/Associate-107C10?style=flat-square) | [**Power Platform Developer**](https://learn.microsoft.com/en-us/credentials/certifications/power-platform-developer-associate/) | `PL-400` |
-| ✅ | ![Associate](https://img.shields.io/badge/Associate-107C10?style=flat-square) | [**Power Platform Consultant**](https://learn.microsoft.com/en-us/credentials/certifications/power-platform-functional-consultant-associate/) | `PL-200` |
+| 🎓 | ![Associate](https://img.shields.io/badge/Associate-107C10?style=flat-square) | [**Azure AI Engineer**](https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-engineer/) | `AI-102` |
+| 🎓 | ![Associate](https://img.shields.io/badge/Associate-107C10?style=flat-square) | [**Azure Data Scientist**](https://learn.microsoft.com/en-us/credentials/certifications/azure-data-scientist/) | `DP-100` |
+| 🎓 | ![Associate](https://img.shields.io/badge/Associate-107C10?style=flat-square) | [**Azure Developer**](https://learn.microsoft.com/en-us/credentials/certifications/azure-developer/) | `AZ-204` |
+| 🎓 | ![Associate](https://img.shields.io/badge/Associate-107C10?style=flat-square) | [**Power BI Data Analyst**](https://learn.microsoft.com/en-us/credentials/certifications/data-analyst-associate/) | `PL-300` |
+| 🎓 | ![Associate](https://img.shields.io/badge/Associate-107C10?style=flat-square) | [**Power Platform Developer**](https://learn.microsoft.com/en-us/credentials/certifications/power-platform-developer-associate/) | `PL-400` |
+| 🎓 | ![Associate](https://img.shields.io/badge/Associate-107C10?style=flat-square) | [**Power Platform Consultant**](https://learn.microsoft.com/en-us/credentials/certifications/power-platform-functional-consultant-associate/) | `PL-200` |
 | 🔵 | ![Foundations](https://img.shields.io/badge/Foundations-00B4D8?style=flat-square) | [**GitHub Foundations**](https://resources.github.com/learn/certifications/) · [**GitHub Copilot**](https://resources.github.com/learn/certifications/) | `GH-900` · `GH-300` |
 | 📘 | ![Fundamentals](https://img.shields.io/badge/Fundamentals-6C757D?style=flat-square) | [**Azure AI Fundamentals**](https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-fundamentals/) · [**Power Platform Fundamentals**](https://learn.microsoft.com/en-us/credentials/certifications/power-platform-fundamentals/) | `AI-900` · `PL-900` |
 
@@ -584,15 +584,15 @@ Six Jupyter Notebooks teaching essential Python for AI-102 certification labs �
 <!--                       APPLIED SKILLS & SPECIALIZATIONS                        -->
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
-<h2 align="center">🧩 Applied Skills & Specializations (14+)</h2>
+<h2 align="left">🧩 Applied Skills & Specializations (14+)</h2>
 
 <br/>
 
-<div align="center">
+<div align="left">
 <table>
 <tr>
 
-<td align="center" valign="top" width="25%">
+<td align="left" valign="top" width="25%">
 <br/>
 <img src="https://img.shields.io/badge/Agentic_AI_&_Copilot-0078D4?style=for-the-badge" alt=""/><br/><br/>
 <a href="https://learn.microsoft.com/en-us/credentials/applied-skills/develop-ai-agents-azure-ai-agent-service/"><img src="https://img.shields.io/badge/AI--3026-Develop_AI_Agents-0078D4?style=flat-square&logo=microsoft&logoColor=white"/></a><br/>
@@ -602,7 +602,7 @@ Six Jupyter Notebooks teaching essential Python for AI-102 certification labs �
 <br/><br/>
 </td>
 
-<td align="center" valign="top" width="25%">
+<td align="left" valign="top" width="25%">
 <br/>
 <img src="https://img.shields.io/badge/Azure_AI_&_GenAI-5C2D91?style=for-the-badge" alt=""/><br/><br/>
 <a href="https://learn.microsoft.com/en-us/credentials/applied-skills/develop-generative-ai-solutions-with-azure-openai-service/"><img src="https://img.shields.io/badge/AI--050-Generative_AI_Solutions-5C2D91?style=flat-square&logo=microsoft&logoColor=white"/></a><br/>
@@ -612,7 +612,7 @@ Six Jupyter Notebooks teaching essential Python for AI-102 certification labs �
 <br/><br/>
 </td>
 
-<td align="center" valign="top" width="25%">
+<td align="left" valign="top" width="25%">
 <br/>
 <img src="https://img.shields.io/badge/Machine_Learning-00B4D8?style=for-the-badge" alt=""/><br/><br/>
 <a href="https://learn.microsoft.com/en-us/credentials/applied-skills/train-and-deploy-a-machine-learning-model/"><img src="https://img.shields.io/badge/DP--3007-Azure_ML-00B4D8?style=flat-square&logo=microsoft&logoColor=white"/></a><br/>
@@ -620,7 +620,7 @@ Six Jupyter Notebooks teaching essential Python for AI-102 certification labs �
 <br/><br/>
 </td>
 
-<td align="center" valign="top" width="25%">
+<td align="left" valign="top" width="25%">
 <br/>
 <img src="https://img.shields.io/badge/Power_Platform-107C10?style=for-the-badge" alt=""/><br/><br/>
 <a href="https://learn.microsoft.com/en-us/credentials/certifications/power-platform-app-maker/"><img src="https://img.shields.io/badge/PL--100-App_Maker-107C10?style=flat-square&logo=microsoft&logoColor=white"/></a><br/>
@@ -637,45 +637,18 @@ Six Jupyter Notebooks teaching essential Python for AI-102 certification labs �
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!--                          AWARDS & RECOGNITIONS                                -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!-- REPLACE WITH YOUR ACTUAL AWARDS — update entries below with real data -->
-
-<h2 align="center">🏅 Awards & Recognitions</h2>
-
-<br/>
-
-<div align="center">
-
-| &nbsp; | Recognition | Organization | Year |
-|:------:|:-----------|:------------|:-----|
-| 🏆 | ![Award](https://img.shields.io/badge/MCT_Excellence_Award-0078D4?style=flat-square) | [**Microsoft Certified Trainer — Regional Excellence**](#) | `2024` |
-| 🌟 | ![Award](https://img.shields.io/badge/Top_AI_Trainer-5C2D91?style=flat-square) | [**Enterprise AI Training — Top Performer**](#) | `2023` |
-| 🥇 | ![Award](https://img.shields.io/badge/AI_Innovation_Award-00B4D8?style=flat-square) | [**Best AI PoC Delivery — BFSI Sector**](#) | `2023` |
-| ⭐ | ![Award](https://img.shields.io/badge/Digital_Champion-107C10?style=flat-square) | [**Digital Transformation Champion — Enterprise**](#) | `2022` |
-
-</div>
-
-<br/>
-
-<p align="center"><i><!-- REPLACE: Update the awards above with your actual recognitions --></i></p>
-
-<!-- ─── SECTION DIVIDER ─── -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 <!--                          HIGHLIGHT ENGAGEMENTS                                -->
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
-<h2 align="center">🌟 Highlight Engagements</h2>
+<h2 align="left">🌟 Highlight Engagements</h2>
 
 <br/>
 
-<div align="center">
+<div align="left">
 <table>
 <tr>
 
-<td align="center" width="25%" valign="top">
+<td align="left" width="25%" valign="top">
 <br/>
 <img src="https://img.shields.io/badge/🇸🇦_MCIT_Saudi_Arabia-0078D4?style=for-the-badge" alt=""/><br/><br/>
 <b>AI Leadership Mastery</b><br/>
@@ -685,7 +658,7 @@ Six Jupyter Notebooks teaching essential Python for AI-102 certification labs �
 <br/><br/>
 </td>
 
-<td align="center" width="25%" valign="top">
+<td align="left" width="25%" valign="top">
 <br/>
 <img src="https://img.shields.io/badge/🇹🇿_Bank_of_Tanzania-00B4D8?style=for-the-badge" alt=""/><br/><br/>
 <b>AI Agents Program</b><br/>
@@ -695,7 +668,7 @@ Six Jupyter Notebooks teaching essential Python for AI-102 certification labs �
 <br/><br/>
 </td>
 
-<td align="center" width="25%" valign="top">
+<td align="left" width="25%" valign="top">
 <br/>
 <img src="https://img.shields.io/badge/🇧🇭_Govt._of_Bahrain-5C2D91?style=for-the-badge" alt=""/><br/><br/>
 <b>GenAI Enablement</b><br/>
@@ -705,7 +678,7 @@ Workshops<br/><br/>
 <br/><br/>
 </td>
 
-<td align="center" width="25%" valign="top">
+<td align="left" width="25%" valign="top">
 <br/>
 <img src="https://img.shields.io/badge/🏛️_King_Saud_Univ.-E97627?style=for-the-badge" alt=""/><br/><br/>
 <b>AI for Smart Cities</b><br/>
@@ -718,7 +691,7 @@ Professors<br/><br/>
 </tr>
 <tr>
 
-<td align="center" width="25%" valign="top">
+<td align="left" width="25%" valign="top">
 <br/>
 <img src="https://img.shields.io/badge/🎓_Taibah_University-E97627?style=for-the-badge" alt=""/><br/><br/>
 <b>AI for Smart Cities</b><br/>
@@ -728,7 +701,7 @@ Students<br/><br/>
 <br/><br/>
 </td>
 
-<td align="center" width="25%" valign="top">
+<td align="left" width="25%" valign="top">
 <br/>
 <img src="https://img.shields.io/badge/💼_Tech_Mahindra-107C10?style=for-the-badge" alt=""/><br/><br/>
 <b>RFP Automation PoC</b><br/><br/>
@@ -738,7 +711,7 @@ Students<br/><br/>
 <br/><br/>
 </td>
 
-<td align="center" width="25%" valign="top">
+<td align="left" width="25%" valign="top">
 <br/>
 <img src="https://img.shields.io/badge/🛢️_Saudi_Aramco-0078D4?style=for-the-badge" alt=""/><br/><br/>
 <b>Enterprise AI Enablement</b><br/><br/>
@@ -747,7 +720,7 @@ Students<br/><br/>
 <br/><br/>
 </td>
 
-<td align="center" width="25%" valign="top">
+<td align="left" width="25%" valign="top">
 <br/>
 <img src="https://img.shields.io/badge/✈️_Boeing-00B4D8?style=for-the-badge" alt=""/><br/><br/>
 <b>Technical Training</b><br/><br/>
@@ -768,15 +741,15 @@ Students<br/><br/>
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 <!-- REPLACE WITH YOUR ACTUAL SPEAKING ENGAGEMENTS -->
 
-<h2 align="center">🎤 Speaking Engagements & Conferences</h2>
+<h2 align="left">🎤 Speaking Engagements & Conferences</h2>
 
 <br/>
 
-<div align="center">
+<div align="left">
 <table>
 <tr>
 
-<td align="center" width="25%" valign="top">
+<td align="left" width="25%" valign="top">
 <br/>
 <img src="https://img.shields.io/badge/🎯_Microsoft_Ignite-0078D4?style=for-the-badge" alt=""/><br/><br/>
 <b>Enterprise AI Adoption at Scale</b><br/>
@@ -786,7 +759,7 @@ Workshop<br/><br/>
 <br/><br/>
 </td>
 
-<td align="center" width="25%" valign="top">
+<td align="left" width="25%" valign="top">
 <br/>
 <img src="https://img.shields.io/badge/🤖_Global_AI_Conference-5C2D91?style=for-the-badge" alt=""/><br/><br/>
 <b>Agentic AI for the Enterprise</b><br/>
@@ -796,7 +769,7 @@ Keynote<br/><br/>
 <br/><br/>
 </td>
 
-<td align="center" width="25%" valign="top">
+<td align="left" width="25%" valign="top">
 <br/>
 <img src="https://img.shields.io/badge/📊_AI_Summit_MENA-00B4D8?style=for-the-badge" alt=""/><br/><br/>
 <b>AI Transformation in BFSI</b><br/>
@@ -806,7 +779,7 @@ Panel Speaker<br/><br/>
 <br/><br/>
 </td>
 
-<td align="center" width="25%" valign="top">
+<td align="left" width="25%" valign="top">
 <br/>
 <img src="https://img.shields.io/badge/🎓_Microsoft_MCT_Summit-E97627?style=for-the-badge" alt=""/><br/><br/>
 <b>Training the AI Trainers</b><br/>
@@ -822,7 +795,7 @@ Workshop<br/><br/>
 
 <br/>
 
-<p align="center"><i><!-- REPLACE: Update the events above with your actual speaking engagements --></i></p>
+<p align="left"><i><!-- REPLACE: Update the events above with your actual speaking engagements --></i></p>
 
 <!-- ─── SECTION DIVIDER ─── -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
@@ -832,11 +805,11 @@ Workshop<br/><br/>
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 <!-- REPLACE WITH YOUR ACTUAL ARTICLES -->
 
-<h2 align="center">📝 Blog Posts & Publications</h2>
+<h2 align="left">📝 Blog Posts & Publications</h2>
 
 <br/>
 
-<div align="center">
+<div align="left">
 
 | &nbsp; | Article | Platform | Date |
 |:------:|:--------|:---------|:-----|
@@ -850,7 +823,7 @@ Workshop<br/><br/>
 
 <br/>
 
-<p align="center"><i><!-- REPLACE: Update the articles above with your actual blog posts and publication links --></i></p>
+<p align="left"><i><!-- REPLACE: Update the articles above with your actual blog posts and publication links --></i></p>
 
 <!-- ─── SECTION DIVIDER ─── -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
@@ -860,15 +833,15 @@ Workshop<br/><br/>
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 <!-- REPLACE WITH YOUR ACTUAL VIDEOS -->
 
-<h2 align="center">🎬 YouTube & Video Content</h2>
+<h2 align="left">🎬 YouTube & Video Content</h2>
 
 <br/>
 
-<div align="center">
+<div align="left">
 <table>
 <tr>
 
-<td align="center" width="33%" valign="top">
+<td align="left" width="33%" valign="top">
 <br/>
 <img src="https://img.shields.io/badge/▶️_YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt=""/>
 <br/><br/>
@@ -878,7 +851,7 @@ Workshop<br/><br/>
 <br/><br/>
 </td>
 
-<td align="center" width="33%" valign="top">
+<td align="left" width="33%" valign="top">
 <br/>
 <img src="https://img.shields.io/badge/▶️_YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt=""/>
 <br/><br/>
@@ -888,7 +861,7 @@ Workshop<br/><br/>
 <br/><br/>
 </td>
 
-<td align="center" width="33%" valign="top">
+<td align="left" width="33%" valign="top">
 <br/>
 <img src="https://img.shields.io/badge/▶️_YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt=""/>
 <br/><br/>
@@ -904,7 +877,7 @@ Workshop<br/><br/>
 
 <br/>
 
-<p align="center"><i><!-- REPLACE: Update the videos above with your actual YouTube/video links --></i></p>
+<p align="left"><i><!-- REPLACE: Update the videos above with your actual YouTube/video links --></i></p>
 
 <!-- ─── SECTION DIVIDER ─── -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
@@ -914,17 +887,17 @@ Workshop<br/><br/>
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 <!-- REPLACE WITH ACTUAL TESTIMONIALS from your clients and trainees -->
 
-<h2 align="center">💬 Testimonials & Endorsements</h2>
+<h2 align="left">💬 Testimonials & Endorsements</h2>
 
 <br/>
 
-<div align="center">
+<div align="left">
 <table>
 <tr>
 
 <td width="33%" valign="top">
 <br/>
-<div align="center">
+<div align="left">
 <img src="https://img.shields.io/badge/⭐⭐⭐⭐⭐-FFD700?style=flat-square" alt="5 stars"/>
 </div>
 <br/>
@@ -941,7 +914,7 @@ Workshop<br/><br/>
 
 <td width="33%" valign="top">
 <br/>
-<div align="center">
+<div align="left">
 <img src="https://img.shields.io/badge/⭐⭐⭐⭐⭐-FFD700?style=flat-square" alt="5 stars"/>
 </div>
 <br/>
@@ -958,7 +931,7 @@ Workshop<br/><br/>
 
 <td width="33%" valign="top">
 <br/>
-<div align="center">
+<div align="left">
 <img src="https://img.shields.io/badge/⭐⭐⭐⭐⭐-FFD700?style=flat-square" alt="5 stars"/>
 </div>
 <br/>
@@ -979,7 +952,7 @@ Workshop<br/><br/>
 
 <br/>
 
-<p align="center"><i><!-- REPLACE: Update the testimonials above with real client feedback --></i></p>
+<p align="left"><i><!-- REPLACE: Update the testimonials above with real client feedback --></i></p>
 
 <!-- ─── SECTION DIVIDER ─── -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
@@ -988,15 +961,15 @@ Workshop<br/><br/>
 <!--                               KEY CLIENTS                                     -->
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
-<h2 align="center">🤝 Key Clients</h2>
+<h2 align="left">🤝 Key Clients</h2>
 
 <br/>
 
-<div align="center">
+<div align="left">
 <table>
 <tr>
 
-<td align="center" width="50%" valign="top">
+<td align="left" width="50%" valign="top">
 <br/>
 <img src="https://img.shields.io/badge/🏢_Enterprise-0078D4?style=for-the-badge" alt="Enterprise"/>
 <br/><br/>
@@ -1005,7 +978,7 @@ PepsiCo · Adobe · Fujitsu · Stryker · Bain & Company · Leidos
 <br/><br/>
 </td>
 
-<td align="center" width="50%" valign="top">
+<td align="left" width="50%" valign="top">
 <br/>
 <img src="https://img.shields.io/badge/💻_Technology-00B4D8?style=for-the-badge" alt="Technology"/>
 <br/><br/>
@@ -1017,7 +990,7 @@ HCL · ITC Infotech · HP India · Tech Mahindra
 </tr>
 <tr>
 
-<td align="center" width="50%" valign="top">
+<td align="left" width="50%" valign="top">
 <br/>
 <img src="https://img.shields.io/badge/🏦_Banking_&_Energy-107C10?style=for-the-badge" alt="Banking"/>
 <br/><br/>
@@ -1026,7 +999,7 @@ Tengizchevroil
 <br/><br/>
 </td>
 
-<td align="center" width="50%" valign="top">
+<td align="left" width="50%" valign="top">
 <br/>
 <img src="https://img.shields.io/badge/🏛️_Government_&_Education-5C2D91?style=for-the-badge" alt="Gov & Edu"/>
 <br/><br/>
@@ -1046,15 +1019,15 @@ King Saud University · Taibah University
 <!--                          COMMUNITY & MENTORING                                -->
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
-<h2 align="center">🌍 Community & Mentoring</h2>
+<h2 align="left">🌍 Community & Mentoring</h2>
 
 <br/>
 
-<div align="center">
+<div align="left">
 <table>
 <tr>
 
-<td align="center" width="25%" valign="top">
+<td align="left" width="25%" valign="top">
 <br/>
 <img width="48" src="https://img.icons8.com/fluency/96/conference-call.png" alt="Community"/>
 <br/><br/>
@@ -1064,7 +1037,7 @@ Active contributor & knowledge sharer
 <br/><br/>
 </td>
 
-<td align="center" width="25%" valign="top">
+<td align="left" width="25%" valign="top">
 <br/>
 <img width="48" src="https://img.icons8.com/fluency/96/graduation-cap.png" alt="Mentoring"/>
 <br/><br/>
@@ -1074,7 +1047,7 @@ AI & Cloud guest lectures at universities
 <br/><br/>
 </td>
 
-<td align="center" width="25%" valign="top">
+<td align="left" width="25%" valign="top">
 <br/>
 <img width="48" src="https://img.icons8.com/fluency/96/source-code.png" alt="Open Source"/>
 <br/><br/>
@@ -1084,7 +1057,7 @@ AI education repos & tooling
 <br/><br/>
 </td>
 
-<td align="center" width="25%" valign="top">
+<td align="left" width="25%" valign="top">
 <br/>
 <img width="48" src="https://img.icons8.com/fluency/96/groups.png" alt="Meetups"/>
 <br/><br/>
@@ -1105,12 +1078,12 @@ AI/ML community meetups & workshops
 <!--                              GITHUB ANALYTICS                                 -->
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
-<h2 align="center">📈 GitHub Analytics</h2>
+<h2 align="left">📈 GitHub Analytics</h2>
 
 <br/>
 
 <!-- GITHUB TROPHIES -->
-<div align="center">
+<div align="left">
 <a href="https://github.com/lostspace003">
 <img src="https://github-profile-trophy.vercel.app/?username=lostspace003&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" width="95%" alt="GitHub Trophies"/>
 </a>
@@ -1118,7 +1091,7 @@ AI/ML community meetups & workshops
 
 <br/>
 
-<div align="center">
+<div align="left">
 
 <a href="https://github.com/lostspace003">
 <img src="https://github-readme-stats.vercel.app/api?username=lostspace003&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&rank_icon=github&card_width=450" height="180" alt="Stats"/>
@@ -1132,7 +1105,7 @@ AI/ML community meetups & workshops
 
 <br/>
 
-<div align="center">
+<div align="left">
 
 <a href="https://github.com/lostspace003">
 <img src="https://streak-stats.demolab.com?user=lostspace003&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" width="600" alt="Streak"/>
@@ -1142,7 +1115,7 @@ AI/ML community meetups & workshops
 
 <br/>
 
-<div align="center">
+<div align="left">
 
 <a href="https://github.com/lostspace003">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=lostspace003&theme=github-dark&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=58a6ff" width="95%" alt="Activity Graph"/>
@@ -1154,7 +1127,7 @@ AI/ML community meetups & workshops
 
 <!-- CONTRIBUTION SNAKE ANIMATION -->
 <!-- Requires .github/workflows/snake.yml to generate the SVG -->
-<div align="center">
+<div align="left">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lostspace003/lostspace003/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lostspace003/lostspace003/output/github-snake.svg" />
@@ -1169,7 +1142,7 @@ AI/ML community meetups & workshops
 <!--                           LATEST ACTIVITY FEED                                -->
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
-<h2 align="center">⚡ Latest Activity</h2>
+<h2 align="left">⚡ Latest Activity</h2>
 
 <br/>
 
@@ -1183,7 +1156,7 @@ AI/ML community meetups & workshops
 
 <br/>
 
-<p align="center"><i>🔄 Auto-updated via <a href="https://github.com/jamesgeorge007/github-activity-readme">GitHub Activity Readme</a></i></p>
+<p align="left"><i>🔄 Auto-updated via <a href="https://github.com/jamesgeorge007/github-activity-readme">GitHub Activity Readme</a></i></p>
 
 <!-- ─── SECTION DIVIDER ─── -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
@@ -1192,11 +1165,11 @@ AI/ML community meetups & workshops
 <!--                              LET'S CONNECT                                    -->
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
-<h2 align="center">💬 Let's Connect</h2>
+<h2 align="left">💬 Let's Connect</h2>
 
 <br/>
 
-<div align="center">
+<div align="left">
 <table><tr><td>
 <div align="justify">
 
@@ -1208,7 +1181,7 @@ Open to **AI project collaborations, speaking at events, or designing enterprise
 
 <br/>
 
-<div align="center">
+<div align="left">
 
 <a href="https://www.linkedin.com/in/jalal-khan-b8319955/"><img src="https://img.shields.io/badge/LinkedIn-Connect_with_me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=083B73" height="36" alt="LinkedIn"/></a>
 &nbsp;&nbsp;
