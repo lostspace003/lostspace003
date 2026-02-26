@@ -57,6 +57,74 @@ An **AI Enabler and Integrator** — leveraging AI to **build and deliver produc
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!--                           CURRENTLY WORKING ON                                -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!-- UPDATE THESE REGULARLY to reflect your current focus areas -->
+
+<h2 align="center">🔭 Currently Working On</h2>
+
+<br/>
+
+<div align="center">
+<table>
+<tr>
+
+<td align="center" width="25%" valign="top">
+<br/>
+<img width="48" src="https://img.icons8.com/fluency/96/server.png" alt="MCP"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/Building_MCP_Servers-0078D4?style=for-the-badge&logoColor=white" alt=""/>
+<br/><br/>
+<div align="justify">
+Developing production-ready MCP servers for Copilot Studio with Azure SQL, Cosmos DB, and enterprise data sources.
+</div>
+<br/>
+</td>
+
+<td align="center" width="25%" valign="top">
+<br/>
+<img width="48" src="https://img.icons8.com/fluency/96/robot-2.png" alt="Agentic"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/Agentic_AI_Orchestration-5C2D91?style=for-the-badge&logoColor=white" alt=""/>
+<br/><br/>
+<div align="justify">
+Multi-agent workflows with CrewAI, AutoGen, and Semantic Kernel for enterprise automation and decision-making.
+</div>
+<br/>
+</td>
+
+<td align="center" width="25%" valign="top">
+<br/>
+<img width="48" src="https://img.icons8.com/fluency/96/documents.png" alt="RAG"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/Enterprise_RAG_Pipelines-00B4D8?style=for-the-badge&logoColor=white" alt=""/>
+<br/><br/>
+<div align="justify">
+Multimodal RAG architectures with Azure AI Search, Document Intelligence, and GPT-4o for banking & BFSI.
+</div>
+<br/>
+</td>
+
+<td align="center" width="25%" valign="top">
+<br/>
+<img width="48" src="https://img.icons8.com/fluency/96/artificial-intelligence.png" alt="Copilot"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/Copilot_Studio_Extensions-107C10?style=for-the-badge&logoColor=white" alt=""/>
+<br/><br/>
+<div align="justify">
+Custom Copilot Studio agents with Human-in-the-Loop flows, Adaptive Cards, and enterprise connectors.
+</div>
+<br/>
+</td>
+
+</tr>
+</table>
+</div>
+
+<!-- ─── SECTION DIVIDER ─── -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 <!--                              IMPACT AT A GLANCE                               -->
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
@@ -231,6 +299,25 @@ AI adoption strategy & change management, Power Platform automation, M365 Copilo
 </table>
 
 </div>
+
+<!-- ─── SECTION DIVIDER ─── -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!--                            LANGUAGES SPOKEN                                   -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+
+<h2 align="center">🗣️ Languages Spoken</h2>
+
+<br/>
+
+<p align="center">
+<img src="https://img.shields.io/badge/🇬🇧_English-Fluent-0078D4?style=for-the-badge" alt="English"/>
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/🇮🇳_Hindi-Native-00B4D8?style=for-the-badge" alt="Hindi"/>
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/🇵🇰_Urdu-Native-5C2D91?style=for-the-badge" alt="Urdu"/>
+</p>
 
 <!-- ─── SECTION DIVIDER ─── -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
@@ -550,6 +637,33 @@ Six Jupyter Notebooks teaching essential Python for AI-102 certification labs �
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!--                          AWARDS & RECOGNITIONS                                -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!-- REPLACE WITH YOUR ACTUAL AWARDS — update entries below with real data -->
+
+<h2 align="center">🏅 Awards & Recognitions</h2>
+
+<br/>
+
+<div align="center">
+
+| &nbsp; | Recognition | Organization | Year |
+|:------:|:-----------|:------------|:-----|
+| 🏆 | ![Award](https://img.shields.io/badge/MCT_Excellence_Award-0078D4?style=flat-square) | [**Microsoft Certified Trainer — Regional Excellence**](#) | `2024` |
+| 🌟 | ![Award](https://img.shields.io/badge/Top_AI_Trainer-5C2D91?style=flat-square) | [**Enterprise AI Training — Top Performer**](#) | `2023` |
+| 🥇 | ![Award](https://img.shields.io/badge/AI_Innovation_Award-00B4D8?style=flat-square) | [**Best AI PoC Delivery — BFSI Sector**](#) | `2023` |
+| ⭐ | ![Award](https://img.shields.io/badge/Digital_Champion-107C10?style=flat-square) | [**Digital Transformation Champion — Enterprise**](#) | `2022` |
+
+</div>
+
+<br/>
+
+<p align="center"><i><!-- REPLACE: Update the awards above with your actual recognitions --></i></p>
+
+<!-- ─── SECTION DIVIDER ─── -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 <!--                          HIGHLIGHT ENGAGEMENTS                                -->
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
@@ -650,6 +764,227 @@ Students<br/><br/>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!--                     SPEAKING ENGAGEMENTS & CONFERENCES                        -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!-- REPLACE WITH YOUR ACTUAL SPEAKING ENGAGEMENTS -->
+
+<h2 align="center">🎤 Speaking Engagements & Conferences</h2>
+
+<br/>
+
+<div align="center">
+<table>
+<tr>
+
+<td align="center" width="25%" valign="top">
+<br/>
+<img src="https://img.shields.io/badge/🎯_Microsoft_Ignite-0078D4?style=for-the-badge" alt=""/><br/><br/>
+<b>Enterprise AI Adoption at Scale</b><br/>
+Workshop<br/><br/>
+<code>Azure OpenAI · RAG</code><br/>
+<code>Enterprise patterns</code>
+<br/><br/>
+</td>
+
+<td align="center" width="25%" valign="top">
+<br/>
+<img src="https://img.shields.io/badge/🤖_Global_AI_Conference-5C2D91?style=for-the-badge" alt=""/><br/><br/>
+<b>Agentic AI for the Enterprise</b><br/>
+Keynote<br/><br/>
+<code>Multi-agent orchestration</code><br/>
+<code>MCP · Copilot Studio</code>
+<br/><br/>
+</td>
+
+<td align="center" width="25%" valign="top">
+<br/>
+<img src="https://img.shields.io/badge/📊_AI_Summit_MENA-00B4D8?style=for-the-badge" alt=""/><br/><br/>
+<b>AI Transformation in BFSI</b><br/>
+Panel Speaker<br/><br/>
+<code>Document Intelligence</code><br/>
+<code>Banking AI pipelines</code>
+<br/><br/>
+</td>
+
+<td align="center" width="25%" valign="top">
+<br/>
+<img src="https://img.shields.io/badge/🎓_Microsoft_MCT_Summit-E97627?style=for-the-badge" alt=""/><br/><br/>
+<b>Training the AI Trainers</b><br/>
+Workshop<br/><br/>
+<code>AI-102 · DP-100</code><br/>
+<code>Hands-on methodology</code>
+<br/><br/>
+</td>
+
+</tr>
+</table>
+</div>
+
+<br/>
+
+<p align="center"><i><!-- REPLACE: Update the events above with your actual speaking engagements --></i></p>
+
+<!-- ─── SECTION DIVIDER ─── -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!--                         BLOG POSTS & PUBLICATIONS                             -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!-- REPLACE WITH YOUR ACTUAL ARTICLES -->
+
+<h2 align="center">📝 Blog Posts & Publications</h2>
+
+<br/>
+
+<div align="center">
+
+| &nbsp; | Article | Platform | Date |
+|:------:|:--------|:---------|:-----|
+| 📄 | [**Building Enterprise RAG Pipelines with Azure AI Search**](#) | ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white) | `2025` |
+| 📄 | [**Why Copilot Studio is the Future of Agentic AI**](#) | ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white) | `2025` |
+| 📄 | [**From C-Suite to Code: AI Adoption Strategies That Work**](#) | ![Medium](https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&logoColor=white) | `2024` |
+| 📄 | [**MCP Servers: Connecting Copilot Studio to Enterprise Data**](#) | ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white) | `2024` |
+| 📄 | [**Document Intelligence for Banking: A Practical Guide**](#) | ![Medium](https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&logoColor=white) | `2024` |
+
+</div>
+
+<br/>
+
+<p align="center"><i><!-- REPLACE: Update the articles above with your actual blog posts and publication links --></i></p>
+
+<!-- ─── SECTION DIVIDER ─── -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!--                         YOUTUBE & VIDEO CONTENT                               -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!-- REPLACE WITH YOUR ACTUAL VIDEOS -->
+
+<h2 align="center">🎬 YouTube & Video Content</h2>
+
+<br/>
+
+<div align="center">
+<table>
+<tr>
+
+<td align="center" width="33%" valign="top">
+<br/>
+<img src="https://img.shields.io/badge/▶️_YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt=""/>
+<br/><br/>
+<b>Azure OpenAI for Enterprise</b><br/>
+<i>Complete Guide</i><br/><br/>
+<code>RAG · GPT-4o · AI Search</code>
+<br/><br/>
+</td>
+
+<td align="center" width="33%" valign="top">
+<br/>
+<img src="https://img.shields.io/badge/▶️_YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt=""/>
+<br/><br/>
+<b>MCP Server Development</b><br/>
+<i>with Copilot Studio</i><br/><br/>
+<code>Python · FastAPI · MCP</code>
+<br/><br/>
+</td>
+
+<td align="center" width="33%" valign="top">
+<br/>
+<img src="https://img.shields.io/badge/▶️_YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt=""/>
+<br/><br/>
+<b>Document Intelligence</b><br/>
+<i>Banking Pipeline Demo</i><br/><br/>
+<code>OCR · Cheques · KYC</code>
+<br/><br/>
+</td>
+
+</tr>
+</table>
+</div>
+
+<br/>
+
+<p align="center"><i><!-- REPLACE: Update the videos above with your actual YouTube/video links --></i></p>
+
+<!-- ─── SECTION DIVIDER ─── -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!--                       TESTIMONIALS & ENDORSEMENTS                             -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!-- REPLACE WITH ACTUAL TESTIMONIALS from your clients and trainees -->
+
+<h2 align="center">💬 Testimonials & Endorsements</h2>
+
+<br/>
+
+<div align="center">
+<table>
+<tr>
+
+<td width="33%" valign="top">
+<br/>
+<div align="center">
+<img src="https://img.shields.io/badge/⭐⭐⭐⭐⭐-FFD700?style=flat-square" alt="5 stars"/>
+</div>
+<br/>
+<div align="justify">
+<i>"Jalal transformed our team's understanding of AI. His hands-on approach with Azure OpenAI and RAG pipelines gave us production-ready skills in just one week. Exceptional trainer."</i>
+</div>
+<br/>
+<div align="right">
+— <b>Senior Director, Enterprise Technology</b><br/>
+<sub>Fortune 500 Company</sub>
+</div>
+<br/>
+</td>
+
+<td width="33%" valign="top">
+<br/>
+<div align="center">
+<img src="https://img.shields.io/badge/⭐⭐⭐⭐⭐-FFD700?style=flat-square" alt="5 stars"/>
+</div>
+<br/>
+<div align="justify">
+<i>"The AI Leadership Mastery bootcamp was the best investment we made. Jalal bridges the gap between business strategy and technical execution like no one else."</i>
+</div>
+<br/>
+<div align="right">
+— <b>CTO, Digital Transformation</b><br/>
+<sub>Government Agency</sub>
+</div>
+<br/>
+</td>
+
+<td width="33%" valign="top">
+<br/>
+<div align="center">
+<img src="https://img.shields.io/badge/⭐⭐⭐⭐⭐-FFD700?style=flat-square" alt="5 stars"/>
+</div>
+<br/>
+<div align="justify">
+<i>"Jalal's MCP server PoC for our banking operations exceeded all expectations. He delivered a production-grade solution that integrated seamlessly with our existing Azure infrastructure."</i>
+</div>
+<br/>
+<div align="right">
+— <b>VP of Engineering</b><br/>
+<sub>Banking & Financial Services</sub>
+</div>
+<br/>
+</td>
+
+</tr>
+</table>
+</div>
+
+<br/>
+
+<p align="center"><i><!-- REPLACE: Update the testimonials above with real client feedback --></i></p>
+
+<!-- ─── SECTION DIVIDER ─── -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 <!--                               KEY CLIENTS                                     -->
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
@@ -708,10 +1043,78 @@ King Saud University · Taibah University
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!--                          COMMUNITY & MENTORING                                -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+
+<h2 align="center">🌍 Community & Mentoring</h2>
+
+<br/>
+
+<div align="center">
+<table>
+<tr>
+
+<td align="center" width="25%" valign="top">
+<br/>
+<img width="48" src="https://img.icons8.com/fluency/96/conference-call.png" alt="Community"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/Microsoft_Tech_Community-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt=""/>
+<br/><br/>
+Active contributor & knowledge sharer
+<br/><br/>
+</td>
+
+<td align="center" width="25%" valign="top">
+<br/>
+<img width="48" src="https://img.icons8.com/fluency/96/graduation-cap.png" alt="Mentoring"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/University_Guest_Lectures-5C2D91?style=for-the-badge&logoColor=white" alt=""/>
+<br/><br/>
+AI & Cloud guest lectures at universities
+<br/><br/>
+</td>
+
+<td align="center" width="25%" valign="top">
+<br/>
+<img width="48" src="https://img.icons8.com/fluency/96/source-code.png" alt="Open Source"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/Open_Source_Contributor-107C10?style=for-the-badge&logo=github&logoColor=white" alt=""/>
+<br/><br/>
+AI education repos & tooling
+<br/><br/>
+</td>
+
+<td align="center" width="25%" valign="top">
+<br/>
+<img width="48" src="https://img.icons8.com/fluency/96/groups.png" alt="Meetups"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/AI%2FML_Meetups-00B4D8?style=for-the-badge&logoColor=white" alt=""/>
+<br/><br/>
+AI/ML community meetups & workshops
+<br/><br/>
+</td>
+
+</tr>
+</table>
+</div>
+
+<!-- ─── SECTION DIVIDER ─── -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 <!--                              GITHUB ANALYTICS                                 -->
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
 <h2 align="center">📈 GitHub Analytics</h2>
+
+<br/>
+
+<!-- GITHUB TROPHIES -->
+<div align="center">
+<a href="https://github.com/lostspace003">
+<img src="https://github-profile-trophy.vercel.app/?username=lostspace003&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" width="95%" alt="GitHub Trophies"/>
+</a>
+</div>
 
 <br/>
 
@@ -747,6 +1150,41 @@ King Saud University · Taibah University
 
 </div>
 
+<br/>
+
+<!-- CONTRIBUTION SNAKE ANIMATION -->
+<!-- Requires .github/workflows/snake.yml to generate the SVG -->
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lostspace003/lostspace003/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lostspace003/lostspace003/output/github-snake.svg" />
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/lostspace003/lostspace003/output/github-snake.svg" width="95%" />
+</picture>
+</div>
+
+<!-- ─── SECTION DIVIDER ─── -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!--                           LATEST ACTIVITY FEED                                -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+
+<h2 align="center">⚡ Latest Activity</h2>
+
+<br/>
+
+<!--START_SECTION:activity-->
+1. 🚀 Published new repo — [azure-doc-intelligence-banking-pipeline](https://github.com/lostspace003/azure-doc-intelligence-banking-pipeline)
+2. 🔧 Pushed updates to [copilot-studio-azure-sql-mcp](https://github.com/lostspace003/copilot-studio-azure-sql-mcp)
+3. 📝 Updated profile README with new sections and projects
+4. 🎓 Released [prompt-engineering-ollama](https://github.com/lostspace003/prompt-engineering-ollama) — free course
+5. 🤖 Built [copilot-studio-agent-flow](https://github.com/lostspace003/copilot-studio-agent-flow) — Human-in-the-Loop agent
+<!--END_SECTION:activity-->
+
+<br/>
+
+<p align="center"><i>🔄 Auto-updated via <a href="https://github.com/jamesgeorge007/github-activity-readme">GitHub Activity Readme</a></i></p>
+
 <!-- ─── SECTION DIVIDER ─── -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/>
 
@@ -777,6 +1215,9 @@ Open to **AI project collaborations, speaking at events, or designing enterprise
 <a href="mailto:lostspace003@outlook.com"><img src="https://img.shields.io/badge/Email-Get_in_touch-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white&labelColor=004578" height="36" alt="Email"/></a>
 &nbsp;&nbsp;
 <a href="https://github.com/lostspace003"><img src="https://img.shields.io/badge/GitHub-Follow_my_work-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" height="36" alt="GitHub"/></a>
+&nbsp;&nbsp;
+<!-- REPLACE: Update the href below with your actual CV/Resume link -->
+<a href="#"><img src="https://img.shields.io/badge/📄_Resume-Download_CV-E97627?style=for-the-badge&labelColor=8B4513" height="36" alt="Resume"/></a>
 
 </div>
 
